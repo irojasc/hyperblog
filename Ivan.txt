@@ -1,6 +1,6 @@
 Hola
 
-Me llamo Ivan Rojas 27 años y soy programador
+Me llamo Ivan Rojas y tengo 27 años.
 
 
 Actualmente me encuentro aprendiendo en platzy.
