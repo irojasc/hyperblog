@@ -1,6 +1,7 @@
-Hola
+xHola
 
 Me llamo Ivan Rojas y tengo 27 años.
 
+Me gusta mucho la programacion y, por ello,
 
-Actualmente me encuentro aprendiendo en platzy.
+ me encuentro aprendiendo en platzy.
