@@ -1,17 +1,6 @@
 Hola
 
-Me llamo Ivan Rojas y tengo 27 años.
+Me llamo Ivan Rojas 27 años y soy programador
 
-Me gusta mucho la programacion y, por ello,
 
-me encuentro aprendiendo en platzy.
-
-Espero encontrar un trabajo que me aporte bastante experiencia.
-
-Ademas tambien debo agregar que uno de mis sueños es conocer Japon.
-
-Finalmente, para alcanzar todos mis deseos necesito practicar bastante programacion.
-
-Ahora mismo practico todos los dias a la misma hora para hacer
-
-de la programacion un habito.
+Actualmente me encuentro aprendiendo en platzy.
